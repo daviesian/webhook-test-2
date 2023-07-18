@@ -3,10 +3,7 @@ package_name: Webhook_Test
 name: Webhook Test
 startup_form: Form1
 runtime_options: {version: 2, client_version: '3', server_version: python3-full, server_spec: null}
-dependencies:
-- dep_id: dep_l9d3uxwzue58ak
-  version: {dev: false}
-  resolution_hints: {app_id: NA7UVUZUYNF5HCMW, name: Chakra Theme, package_name: Chakra}
+dependencies: []
 services:
 - source: /runtime/services/tables.yml
   client_config: {}
